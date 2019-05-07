@@ -1,0 +1,24 @@
+http://www.williballenthin.com/forensics/indx/
+
+https://www.youtube.com/watch?v=XzoYNOlJ37s&list=PLlv3b9B16ZadqDQH0lTRO4kqn2P1g9Mve&index=5
+Windows NTFS Index Attributes ($I30 Files)
+
+http://www.williballenthin.com/presentations/2013-MFT_Analysis/#/9
+
+http://www.williballenthin.com/
+
+https://www.forensicmethods.com/resources
+
+https://digital-forensics.sans.org/blog/2011/09/20/ntfs-i30-index-attributes-evidence-of-deleted-and-overwritten-files
+
+https://www.slideshare.net/takahiroharuyama5/takahiro-haruyama-ceic20110515
+
+https://www.osforensics.com/usnjrnl-viewer.html
+
+https://www.ntfs.com/index.html
+
+fsutil volume querycluster C: 5235
+
+https://www.poftut.com/use-fsutil-check-repair-file-system-windows/
+
+http://windowstipoftheday.blogspot.com/2011/05/windows-7-power-of-fsutil-command.html
